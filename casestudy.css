@@ -1,0 +1,16 @@
+/* body {
+  position: relative;
+} */
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 { 
+  cursor: pointer;
+  }
+
+div, #home {
+  
+  border: 1px solid grey;
+  padding: 10px;
+}
